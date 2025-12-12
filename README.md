@@ -156,8 +156,3 @@ predict_review("The movie was boring and terrible.")
 - Final accuracy reached **88%**  
 - No pretrained embeddings used  
 - Perfect for NLP projects and university assignments  
-
----
-
-If you want a version in **Arabic** or a **GitHub-ready styled README**, just ask:  
-**"عايز النسخة العربية"** أو **"عايز نسخة احترافية"**.
