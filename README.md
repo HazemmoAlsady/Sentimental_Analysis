@@ -22,13 +22,14 @@ We first try a Simple RNN model. If accuracy is low, we upgrade to a GRU model f
 
 ## 📂 Dataset
 
-**IMDB Dataset (50,000 reviews)**  
+**IMDB Dataset (50,000 reviews)** 
+
 Format:  
 - review → text  
 - sentiment → positive / negative  
 
 Dataset is cleaned and prepared before feeding it into the neural network.
-
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 ---
 
 ## 🔧 Technologies Used
